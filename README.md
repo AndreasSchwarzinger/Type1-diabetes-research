@@ -49,8 +49,12 @@ Custom Python scripts were used to: Segment islets and surrounding tissue. Asses
 ---
 
 ## 🚀 Impact & Relevance
-- **Clinical impact:** How findings could help clinicians or patients.  
-- **Healthtech translation:** How startups could use this (e.g., patient engagement apps, decision support, predictive modeling).  
+- **Clinical impact:**
+- Potential Biomarker Development: Elevated proinsulin levels and altered PC2 dynamics may serve as early biomarkers of β-cell stress in Aab⁺ individuals before overt T1D diagnosis.
+- Mechanistic Clues for Therapy: The observation that PC2 remains abundant in T1D islets suggests that not all processing machinery is lost, and that specific enzyme pathways could be therapeutically targeted or stabilized. The decrease in proinsulin and PC2 after stimulation raises the possibility that PC2 and proinsulin may be co-secreted, which needs further investigation.
+- Relevance for Physicians & Translational Research: For clinicians, monitoring proinsulin: insulin ratios and enzyme activity may provide an early clinical tool for identifying patients at higher risk of rapid disease progression. For researchers and healthcare technology developers, these findings highlight new molecular targets (prohormone processing enzymes) for biomarker assays, biosensors, and therapeutic innovation.
+- Value of the Pancreatic Slice Model: Demonstrating functional differences across donor types validates pancreatic slice models as powerful tools to study human T1D progression, bridging the gap between preclinical research and clinical application. Detecting this imbalance could provide a diagnostic window for earlier intervention.
+- **Healthtech translation:** Our research on prohormone processing dysfunction in Type 1 Diabetes highlights elevated proinsulin levels and altered PC2 activity as potential early biomarkers of β-cell stress. These insights open opportunities for startups to develop diagnostic assays, biosensors, and predictive analytics tools that identify at-risk patients before clinical onset. By integrating proinsulin:insulin ratios into AI-driven monitoring platforms or clinical trial stratification, companies can deliver more precise and cost-effective care. This work provides a direct translational bridge between molecular biology and healthcare technology innovation.
 
 ---
 
