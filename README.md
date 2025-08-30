@@ -8,7 +8,7 @@ The goal of this project was to investigate potential dysfunctions in insulin pr
 
 ## 🔬 Background
 - Type-I Diabetes is an Autoimmune disease shown to result from both genetic and environmental factors where our immunesystem targets insulin producing Beta-Cells in the pancrease which leads to insulin deficiency, hyperglycemia, and Beta-cell dysfunctionality.
--  Type-I Diabetes required life long Insulin treatment. Type-I Diabetes affects approximately 9.5 million people globally, with children and adolescents being most affected. T1D incidence and prevalance have steadily increased, and the underlying causes are still not clear. 
+-  Type-I Diabetes requiress life long Insulin treatment. Type-I Diabetes affects approximately 9.5 million people globally, with children and adolescents being most affected. T1D incidence and prevalance have steadily increased, and the underlying causes are still not clear. 
 - Prohormone processing research is critical in advancing our understanding of Type I diabetes because disruptions in insulin maturation represent some of the earliest molecular events in the disease. By identifying and characterizing these dysfunctions, researchers can uncover potential biomarkers for early detection, enabling interventions before complete pancreatic beta-cell loss.
 
 For physicians, this knowledge supports more accurate diagnosis, patient stratification, and treatment monitoring, ultimately guiding personalized therapy. For the healthcare technology sector, these findings provide the foundation for developing innovative tools, from diagnostic assays and biosensors to AI-driven predictive models and digital monitoring platforms — that can translate biological insights into clinical practice.
