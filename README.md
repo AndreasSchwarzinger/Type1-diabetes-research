@@ -19,7 +19,7 @@ In medicine more broadly, linking molecular dysfunction to patient outcomes has 
 
 ## 🧪 Methods
 - Study type: Lab research, data-analysis, and literature review. 
-- Data:  The Network for Pancreatic Organ Donors with Diabetes (nPOD) provides high-quality human pancreatic tissue for research.
+- Data: The Network for Pancreatic Organ Donors with Diabetes (nPOD) provides high-quality human pancreatic tissue for research.
 - Their process includes:Harvesting pancreases from organ donors, Cutting small tissue blocks and embedding them in agarose. Sectioning thin slices using a vibratome, preserving: Islet architecture, Exocrine tissue, Microvasculature, Immune cell populations, Maintaining live slices in culture media for up to 12 hours. Stimulating a portion of slices with glucose to collect perfusate for downstream analysis.This system preserves the native tissue architecture and cellular interactions, providing a unique ex vivo platform for studying Type I diabetes in real human tissue.
 - 15 Non-Diabetic Donors, 10T1D Donors and 5 Auto-Antibody Postive Donors. 
 
@@ -29,9 +29,11 @@ Custom Python scripts were used to: Segment islets and surrounding tissue. Asses
 ---
 
 ## 📊 Key Findings
-- **Result 1:** [e.g., HbA1c was significantly associated with hospitalizations]  
-- **Result 2:** [e.g., CGM adherence improved glycemic control by X%]  
-- **Result 3:** [other insights]  
+- **Result 1: After Glucose Stimulation, Insulin area increases in non-diabetics and autoantibody-postive samples but   decreases in T1D, reflecting impaired insulin processing or secretion in T1D.
+- <img width="767" height="801" alt="image" src="https://github.com/user-attachments/assets/a652550d-4acc-4340-aa5c-a1aa10054804" />
+
+- **Result 2:** 
+- **Result 3:** 
 
 > *(Insert 1–2 charts/figures from your work here. Place images in `/figures/` and link like this:)*  
 > ![HbA1c vs Complications](figures/hba1c_chart.png)
@@ -45,9 +47,9 @@ Custom Python scripts were used to: Segment islets and surrounding tissue. Asses
 ---
 
 ## 👩‍🔬 My Role
-- Designed [protocol / study workflow / analysis approach]  
-- Conducted [lab work / data collection / statistical analysis]  
-- Presented findings at [conference/class/program]  
+- Designed: Protocol, Workflow, and Research presentation.  
+- Conducted: Lab work, Data collection and Data Analysis 
+- Presented findings at Helmholtz Research Institute  
 
 ---
 
