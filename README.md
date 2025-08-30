@@ -65,4 +65,6 @@ Custom Python scripts were used to: Segment islets and surrounding tissue. Asses
 
 ---
 
-## 📂 Repository Structure
+## 📑 [View my full research presentation]
+[Andreas Lab meeting.pptx](https://github.com/user-attachments/files/22059344/Andreas.Lab.meeting.pptx)
+
