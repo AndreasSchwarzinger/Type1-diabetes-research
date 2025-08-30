@@ -31,13 +31,16 @@ Custom Python scripts were used to: Segment islets and surrounding tissue. Asses
 ## 📊 Key Findings
 - **Result 1: T1D islets showed impaired insulin and proinsulin secretion, in both unstimulated and stimulated conditions, indicating a loss of B-cell function.
 - **Result 2: Aab+ donors maintained insulin expression, and had elevated proinsulin levels before stimulation, suggesting an accumulation due to a mal function in the conversion of proinsulin to insulin.
+
 -<img width="400" height="500" alt="image" src="https://github.com/user-attachments/assets/a652550d-4acc-4340-aa5c-a1aa10054804" />
- <img width="400" height="500" alt="image" src="https://github.com/user-attachments/assets/a50caf3d-426c-486b-881d-d7dbf90f4b16" />
+- <img width="400" height="500" alt="image" src="https://github.com/user-attachments/assets/a50caf3d-426c-486b-881d-d7dbf90f4b16" />
 
 - **Result 3: T1D and Aab+ islets maintained a substantial amount of PC2, showing that PC2 is still abundant in islets of people affected by T1D.
+
 - <img width="400" height="500" alt="image" src="https://github.com/user-attachments/assets/becd269e-1af1-414e-822d-fd399e1fc2e5" />
 
  - **Result 4: A decrease in proinsulin after stimulation in T1D and Aab+ donors correlates with previous studies of elevated proinsulin in blood. PC2 also decreases after stimulation which could mean it is secreted with proinsulin.
+
   -<img width="400" height="500" alt="image" src="https://github.com/user-attachments/assets/becd269e-1af1-414e-822d-fd399e1fc2e5" />
   <img width="400" height="500" alt="image" src="https://github.com/user-attachments/assets/a50caf3d-426c-486b-881d-d7dbf90f4b16" />
 
